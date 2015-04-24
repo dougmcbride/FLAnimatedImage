@@ -333,6 +333,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = FLAnimatedImageDemo;
 				TARGETED_DEVICE_FAMILY = 2;
+				WARNING_CFLAGS = "-Wundef";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -348,6 +349,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = FLAnimatedImageDemo;
 				TARGETED_DEVICE_FAMILY = 2;
+				WARNING_CFLAGS = "-Wundef";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
